@@ -36,3 +36,133 @@
     transform: rotate(360deg);
   }
 }
+
+.main-Container{
+  margin: 1em;
+}
+
+.container-gray{
+  background-color: rgb(177, 170, 170);
+}
+
+#head{
+  display: flex;
+  margin:1em;
+}
+
+
+
+.left{
+  padding:100px;
+  margin: 2em;
+  background-color: rgb(124, 120, 120);
+}
+.right{
+  margin: 2em;
+}
+
+.button {
+  background-color: #2f3230; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#container-2{
+  margin:1em;
+}
+
+#text-1{
+  padding: 1em;
+}
+
+#container-3{
+  margin:1em;
+}
+
+#members,#past{
+  display: flex;
+}
+
+
+.see{
+
+  justify-self: right;
+  align-self: right;
+  margin-left: auto;
+  margin-top:1em;
+}
+
+#memberlist{
+  display: flex;
+  margin:1em;
+}
+
+#member-round{
+  border-radius: 50%;
+  background-color: #0f1010;
+  padding:40px;
+  margin: 1.5em;
+}
+
+#member-text{
+  margin: 1em;
+  margin-top: 2em;
+}
+
+.card {
+  /* Add shadows to create the "card" effect */
+  
+  width: 33.3%;
+  margin: 1em;
+  background-color: rgb(177, 170, 170);
+  
+}
+
+/* On mouse-over, add a deeper shadow */
+
+
+.container-card{
+  padding:1em;
+  background-color: rgb(177, 170, 170);
+}
+#meetups {
+  display: flex;
+  margin: 1em;
+}
+
+h4{
+  font: 10px Arial, Geneva, Helvetica, sans-serif;
+  padding: 2px;
+  border-bottom: 1px solid #aaaaaa;
+}
+
+.went{
+  color:#665555;
+}
+
+.text-flex{
+  display: flex;
+}
+
+.text-40{
+  width: 40%;
+}
+
+.underlined{
+  border-bottom: #2f3230;
+}
+
+.solid{
+  border-top: 3px solid rgb(0, 0, 0);
+  margin: 2em;
+}
+
+.footer-text{
+  text-align: center;
+  margin-bottom: 2em;
+}
